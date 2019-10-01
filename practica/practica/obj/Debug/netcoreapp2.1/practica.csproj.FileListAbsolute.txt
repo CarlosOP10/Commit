@@ -1,0 +1,46 @@
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.csprojAssemblyReference.cache
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.csproj.CoreCompileInputs.cache
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorAssemblyInfo.cache
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorAssemblyInfo.cs
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.AssemblyInfoInputs.cache
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.AssemblyInfo.cs
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\bin\Debug\netcoreapp2.1\practica.deps.json
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\bin\Debug\netcoreapp2.1\practica.runtimeconfig.json
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\bin\Debug\netcoreapp2.1\practica.runtimeconfig.dev.json
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\bin\Debug\netcoreapp2.1\practica.dll
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\bin\Debug\netcoreapp2.1\practica.pdb
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorTargetAssemblyInfo.cache
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.dll
+D:\Universidad\6to semestre\Tecnologias web\practica\practica\obj\Debug\netcoreapp2.1\practica.pdb
+E:\practica\practica\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\practica\practica\bin\Debug\netcoreapp2.1\appsettings.json
+E:\practica\practica\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\practica\practica\bin\Debug\netcoreapp2.1\practica.deps.json
+E:\practica\practica\bin\Debug\netcoreapp2.1\practica.runtimeconfig.json
+E:\practica\practica\bin\Debug\netcoreapp2.1\practica.runtimeconfig.dev.json
+E:\practica\practica\bin\Debug\netcoreapp2.1\practica.dll
+E:\practica\practica\bin\Debug\netcoreapp2.1\practica.pdb
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.csprojAssemblyReference.cache
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorAssemblyInfo.cache
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorAssemblyInfo.cs
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.AssemblyInfoInputs.cache
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.AssemblyInfo.cs
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorTargetAssemblyInfo.cache
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.dll
+E:\practica\practica\obj\Debug\netcoreapp2.1\practica.pdb
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\practica.deps.json
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\practica.runtimeconfig.json
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\practica.runtimeconfig.dev.json
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\practica.dll
+C:\Users\user\Desktop\practica\practica\bin\Debug\netcoreapp2.1\practica.pdb
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.csprojAssemblyReference.cache
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.AssemblyInfo.cs
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.dll
+C:\Users\user\Desktop\practica\practica\obj\Debug\netcoreapp2.1\practica.pdb
